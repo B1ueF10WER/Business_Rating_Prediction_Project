@@ -1,1 +1,1 @@
-# Business_Rating_Prediction_Project
+# Business Rating Prediction Project
